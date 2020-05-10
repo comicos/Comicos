@@ -1,2 +1,2 @@
-# zzagurr.github.io
+# comicos.github.io
 GitHub Pages
